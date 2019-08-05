@@ -10,7 +10,7 @@ def fac(n):
         n = n * j
     return n
 
-#Main Program
+# Main Program
 sum = 0
 for h in str(fac(100)):
     sum += int(h)
